@@ -20,3 +20,6 @@ This application aims to streamline the management of patient data, appointments
 - **User-Friendly Interface:**  Intuitive graphical interface built with Tkinter.
 - **Database Integration:**  Uses MySQL to store and manage data.
 
+** You could improve the program by
+Adding more tables
+Adding staf 
